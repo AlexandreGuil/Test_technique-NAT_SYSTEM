@@ -1,0 +1,13 @@
+DEBUG JeuxDeCarte: - 		  2 de trèfle		  2 de pique		  2 de coeur		  2 de carreau
+DEBUG JeuxDeCarte: - 		  3 de trèfle		  3 de pique		  3 de coeur		  3 de carreau
+DEBUG JeuxDeCarte: - 		  4 de trèfle		  4 de pique		  4 de coeur		  4 de carreau
+DEBUG JeuxDeCarte: - 		  5 de trèfle		  5 de pique		  5 de coeur		  5 de carreau
+DEBUG JeuxDeCarte: - 		  6 de trèfle		  6 de pique		  6 de coeur		  6 de carreau
+DEBUG JeuxDeCarte: - 		  7 de trèfle		  7 de pique		  7 de coeur		  7 de carreau
+DEBUG JeuxDeCarte: - 		  8 de trèfle		  8 de pique		  8 de coeur		  8 de carreau
+DEBUG JeuxDeCarte: - 		  9 de trèfle		  9 de pique		  9 de coeur		  9 de carreau
+DEBUG JeuxDeCarte: - 		  10 de trèfle		  10 de pique		  10 de coeur		  10 de carreau
+DEBUG JeuxDeCarte: - 		Valet de trèfle		Valet de pique		Valet de coeur		Valet de carreau
+DEBUG JeuxDeCarte: - 		Reine de trèfle		Reine de pique		Reine de coeur		Reine de carreau
+DEBUG JeuxDeCarte: - 		  Roi de trèfle		  Roi de pique		  Roi de coeur		  Roi de carreau
+DEBUG JeuxDeCarte: - 		  As de trèfle		  As de pique		  As de coeur		  As de carreau

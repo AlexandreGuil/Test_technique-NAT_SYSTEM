@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="4" failures="0" name="fr.guillemot.alexandre.tentative.testTechNatSys.model.TestBataille" time="0.077" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="12.0.2+10"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\guill\Documents\projetPerso\JavaEE\ProjetRecette\testTechNatSys"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\guill\Documents\projetPerso\JavaEE\ProjetRecette\testTechNatSys"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="12.0.2+10"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\guill\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\guill\Documents\DevPrograms\Cmder\bin;C:\Users\guill\Documents\DevPrograms\Cmder\vendor\bin;C:\Users\guill\Documents\DevPrograms\Cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\guill\Documents\DevPrograms\Cmder\vendor\conemu-maximus5;C:\Users\guill\Documents\DevPrograms\Cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Druide\Antidote 9\Application\Bin64\;C:\Program Files (x86)\Druide\Antidote 9\Application\Bin32\;C:\Program Files\FME\;C:\Program Files\Git\cmd;C:\Program Files\gs\gs9.27\lib;C:\Program Files\gs\gs9.27\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-13.0.1\bin;C:\Program Files\PostgreSQL\12\bin;C:\Users\guill\Anaconda3\condabin;C:\Users\guill\Anaconda3\DLLs;C:\Users\guill\Anaconda3;C:\Users\guill\Anaconda3\Library\mingw-w64\bin;C:\Users\guill\Anaconda3\Library\usr\bin;C:\Users\guill\Anaconda3\Library\bin;C:\Users\guill\Anaconda3\Scripts;C:\Users\guill\Anaconda3\bin;C:\Program Files\apache-maven-3.6.3;C:\Program Files\nodejs\;C:\Users\guill\anaconda3;C:\Users\guill\anaconda3\Library\mingw-w64\bin;C:\Users\guill\anaconda3\Library\usr\bin;C:\Users\guill\anaconda3\Library\bin;C:\Users\guill\anaconda3\Scripts;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files\apache-maven-3.6.3\bin;C:\Users\guill\AppData\Local\Microsoft\WindowsApps;C:\Program Files\snap\bin;C:\programs\GMT4\bin;C:\MinGW\bin;C:\Users\guill\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\guill\AppData\Local\GitHubDesktop\bin;C:\Users\guill\AppData\Roaming\npm;C:\Program Files\Docker Toolbox;C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\bin;C:\Program Files\JetBrains\PyCharm Community Edition with Anaconda plugin 2020.1\bin;C:\Program Files\JetBrains\WebStorm 2020.1\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\guill\Documents\DevPrograms\Cmder;C:\Users\guill\Documents\DevPrograms\Cmder\vendor\git-for-windows\cmd;C:\Users\guill\Documents\DevPrograms\Cmder\vendor\git-for-windows\mingw64\bin;C:\Users\guill\Documents\DevPrograms\Cmder\vendor\git-for-windows\usr\bin;."/>
+    <property name="maven.conf" value="C:\Program Files\apache-maven-3.6.3\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="56.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\guill"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="12"/>
+    <property name="user.name" value="Alex"/>
+    <property name="java.class.path" value="C:\Program Files\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="12"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-12.0.2"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="12.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.stderr.encoding" value="cp850"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.stdout.encoding" value="cp850"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="fr.guillemot.alexandre.tentative.testTechNatSys.model.TestBataille" name="testGetGagnant" time="0.072"/>
+  <testcase classname="fr.guillemot.alexandre.tentative.testTechNatSys.model.TestBataille" name="testGetDistibDesCartes" time="0"/>
+  <testcase classname="fr.guillemot.alexandre.tentative.testTechNatSys.model.TestBataille" name="testDistribCarteApresPli" time="0.002"/>
+  <testcase classname="fr.guillemot.alexandre.tentative.testTechNatSys.model.TestBataille" name="testGetPli" time="0.003"/>
+</testsuite>
